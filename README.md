@@ -1,2 +1,2 @@
 # Project-Orion
-# Developed by Anunlu, mavililker, OzanBayar
+Developed by Anunlu, mavililker and OzanBayar
